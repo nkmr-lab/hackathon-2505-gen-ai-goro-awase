@@ -1,9 +1,9 @@
-import AskLlm from "./components/askLlm"
+import GoroCards from './components/GoroCards'
 
 function App() {
   return (
     <>
-      <AskLlm />
+      <GoroCards />
     </>
   )
 }
